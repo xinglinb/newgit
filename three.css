@@ -38,53 +38,51 @@
 	float: left;
 }
 
-@media screen and (min-width:1280px) {
-                #back{
-                	width: 1280px;
-                }
-                #one{
-                	width: 1280px;
-                }
-                #two{
-                	width: 1280px;
-                }
-                #three{
-                	width: 1280px;
-                }
-                #xx{
-                	width: 1280px;
+@media screen and (max-width:1280px) {
+                .pp{
+                	width: 1280px
                 }
             }
 
+@media screen and (min-width:1280px) {
+                .pp{
+                	width: 100%
+                }
+            }
+
+
+.pp{
+	
+}
+
 #back{
-	width: 100%;
+	
 	height: 1680px;
 	position: absolute;
 }
 
 #one{
 	background-color: #3fabab;
-	width: 100%;
+
 	height: 380px;
 
 }
 
 #two{
 	background-color: #252e2d;
-	width: 100%;
 	height: 1000px;
 
 }
 
 #three{
 	background-color: #161a1b;
-	width: 100%;
+
 	height: 300px;
 
 }
 
 #xx{
-	width: 100%;
+
 	height: 1680px;
 	position: relative;
 
