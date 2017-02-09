@@ -1,0 +1,211 @@
+*{
+	margin: 0;
+	padding: 0
+}
+
+
+
+.z1{
+	float: left;
+}
+
+.z2{
+	font-size: 25px;
+	color: #f8fbff;
+	margin-left: 20px;
+	font-family: 微软雅黑;
+}
+
+.z3{
+	font-size: 20px;
+	color: #f8fbff;
+	margin-left: 30px;
+	margin-top: 5px
+
+}
+
+.z4{
+	font-size: 20px;
+	color: #f8fbff;
+	margin-left: 20px;
+	cursor:pointer;
+	height: 35px;
+
+
+}
+
+.x{
+	float: left;
+}
+
+#back{
+	width: 100%;
+	height: 1680px;
+	position: absolute;
+}
+
+#one{
+	background-color: #3fabab;
+	width: 100%;
+	height: 380px;
+
+}
+
+#two{
+	background-color: #252e2d;
+	width: 100%;
+	height: 1000px;
+
+}
+
+#three{
+	background-color: #161a1b;
+	width: 100%;
+	height: 300px;
+
+}
+
+#xx{
+	width: 100%;
+	height: 1680px;
+	position: relative;
+
+}
+
+#xx #top{
+	width: 1280px;
+	height: 130px;
+	margin: 0 auto;
+}
+
+#xx #second{
+	width: 1270px;
+	height: 490px;
+	border: 5px solid #f8fbff;
+	margin: 0 auto;
+	background-image: url("img/bac.jpg");
+}
+
+#second .zo{
+	font-size: 60px;
+	color: #f8fbff;
+	width: 750px;
+	height: 90px;
+	margin: 0 auto;
+	margin-top: 70px;
+}
+
+#second .zx{
+	font-size: 25px;
+	color: #f8fbff;
+	width: 750px;
+	margin: 0 auto;	
+	line-height: 40px
+}
+
+#second .m1{
+	background-image: url("img/3.png");
+	width: 250px;
+	height: 35px;
+	margin-top: 10px;
+
+
+}
+
+#second .m2{
+	background-image: url("img/3.png");
+	width: 250px;
+	height: 50px;
+	margin-top: 20px
+}
+
+#second #an{
+	/*background-image: url("img/4.png");*/
+	width: 516px;
+	height: 88px;
+	float: right;
+	margin-right: 380px;
+	cursor:pointer
+}
+
+#zhong{
+	width: 1280px;
+	height: 720px;
+	margin:0 auto;
+	margin-top: 30px
+}
+
+.t1{
+	margin-left: 40px;
+	width: 400px;
+	height: 320px;
+	margin-top: 15px;
+	cursor:pointer;
+}
+
+.y{
+	
+	font-size: 18px;
+    color: #f8fbff;
+    line-height: 25px;
+
+}
+
+.a{
+	text-decoration:none;
+	color: #f8fbff
+}
+a:hover{
+ text-decoration:underline;  /*鼠标放上去有下划线*/
+}
+
+.t2{
+	width: 1280px;
+	height: 300px;
+	margin-top: 30px;
+	
+}
+
+.tz{
+	margin-left: 160px;
+	margin-top: 20px
+}
+
+#tm{
+	width: 400px;
+	height: 300px;
+	margin-left: 10px
+}
+
+img{
+	cursor:pointer;
+}
+
+#dow{
+	width: 1280px;
+	height: 250px;
+	margin: 0 auto;
+	margin-top: 40px
+}
+
+.tx{
+	width: 380px;
+	height: 90px;
+	border-bottom: 2px solid #373e40;
+	margin-top: 20px;
+	float: left;
+	margin-left: 20px
+}
+
+.z7{
+	color: #51766f;
+	font-size: 15px;
+	margin-left: 8px
+}
+
+.z6{
+	color: #f8fbff;
+	line-height: 25px;
+	margin-top: 10px;
+	margin-left: 8px
+}
