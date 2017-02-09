@@ -38,6 +38,24 @@
 	float: left;
 }
 
+@media screen and (min-width:1280px) {
+                #back{
+                	width: 1280px;
+                }
+                #one{
+                	width: 1280px;
+                }
+                #two{
+                	width: 1280px;
+                }
+                #three{
+                	width: 1280px;
+                }
+                #xx{
+                	width: 1280px;
+                }
+            }
+
 #back{
 	width: 100%;
 	height: 1680px;
